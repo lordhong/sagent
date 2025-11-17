@@ -1,0 +1,23 @@
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+tavily-python
+langchain-experimental
+onnxruntime
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-auth
+langchain-google-genai
+google-generativeai
+Pillow
+pydub
+ffmpeg-python
+opencv-python
+numpy
+twilio
+stripe
+intercom-python
+# stripe-agent-toolkit
+# langchain_anthropic
